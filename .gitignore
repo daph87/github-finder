@@ -24,7 +24,4 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
-# .netlify
-# changes for vscode for merging
-
-
+# changes for the demo merge conflict
